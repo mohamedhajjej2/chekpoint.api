@@ -1,0 +1,29 @@
+.card{
+   
+    top: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    box-shadow: 1px 1px 13px 7px rgba(0,0,0,0.7);
+    border-radius: 34px 34px 34px 34px;
+margin-top: 10px;
+margin-left: 25%;
+}
+.formation{
+   margin-top: 40px;
+}
+.but{
+    border-radius: 200px 200px 200px 200px;
+    border: rgb(177, 209, 130) solid 3px;
+}
+input{
+    width: 33%;
+    margin-left: 30%;
+    border-radius: 200px 200px 200px 200px;
+    border: rgb(177, 209, 130) solid 3px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: rgb(177, 209, 130);
+}
